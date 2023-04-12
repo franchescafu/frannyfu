@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franchesca Fu</title>
+    <link>https://franchescafu.github.io/frannyfu/</link>
+    <description>Recent content on Franchesca Fu</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://franchescafu.github.io/frannyfu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>404</title>
+      <link>https://franchescafu.github.io/frannyfu/404.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://franchescafu.github.io/frannyfu/404.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://franchescafu.github.io/frannyfu/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://franchescafu.github.io/frannyfu/about/</guid>
+      <description>About I’m Franny, an emerging/ aspiring ceramicist. I was born in Canada, raised in Shanghai, am from Taiwan, and currently study ecology at the University of Toronto. Since I’ve lived at the intersection of cultures, my ceramics attempts to capture the indefiniteness of one’s subjectivity and solidify something tangible about myself. My work is my way of presenting myself unshielded and expressing myself boldly through color and bulbous forms. I want my work to be bold and fun— to resist the dreariness of a cloud-covered winter, to rectify all the times we should’ve spoken up or been brave.</description>
+    </item>
+    
+  </channel>
+</rss>

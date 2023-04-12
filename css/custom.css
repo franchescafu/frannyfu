@@ -1,0 +1,19 @@
+/* Custom CSS styles */
+
+
+.menu-override {
+    max-width: 600px;
+    text-align: center;
+}
+
+.navbar-start-override {
+    white-space: nowrap;
+}
+
+.navbar-middle-override {
+    width: 100%;
+    display: grid;
+    justify-content: center;
+    z-index: -9;
+}
+
